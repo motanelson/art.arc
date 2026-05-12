@@ -1,1 +1,1 @@
-Bat language script parse tree
+a basic structure to a simple game
